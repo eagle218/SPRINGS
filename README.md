@@ -16,8 +16,6 @@ Below is a detailed instruction on how to run the program:
 3. Find or create a .env file in the root directory of this project and add your OpenAI API key:
    GPT_TOKEN="your_openai_api_key"
 
-Note: If the .env file doesn't exist, create it and add the API key.
-
 4. Install dependencies by running the following command in your terminal:
   pip install -r requirements.txt
 
