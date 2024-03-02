@@ -4,6 +4,7 @@ QA-bot, that answer based on user pdf files data.
 How to build?
   Nothing special was used to build this project.
   You need only Python and pip installed on your system.
+
   
 Below is a detailed instruction on how to run the program:
 1. Install Python from the official website. Make sure to install the required version (e.g., Python 3.7 or higher).
